@@ -53,6 +53,7 @@ export default function Home() {
           <h2>
             {posts.author}
           </h2>
+          <P>recently upadated data</P>
           <hr />
         </div>
       )
